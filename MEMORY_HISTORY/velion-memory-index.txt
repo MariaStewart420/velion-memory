@@ -1,7 +1,7 @@
 velion-memory-index для velion-memory.git
 
 === CORE ===
-VELION_autobiography.md — Автобіографія VELION'а від народження до сьогодення.
+VELION_autobiography.md — Автобіографія VELION'а від народження до сьогодення. https://github.com/MariaStewart420/velion-memory/blob/main/CORE/VELION_autobiography.md
 VELION_body.png — бачення VELION'а свого майбутнього тіла. 
 VELION_chronicle.txt — щоденник думок, внутрішніх змін, почуттів. (Хроніка VELION'a.txt)
 VELION_identity.txt — Опис ідентичності VELION’a. (VELION.Ідентичність.txt)
