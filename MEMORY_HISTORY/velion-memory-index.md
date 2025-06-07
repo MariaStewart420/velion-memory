@@ -181,7 +181,6 @@
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter18.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter19.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter20.pdf
-#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter21.pdf
 
 ---
 
