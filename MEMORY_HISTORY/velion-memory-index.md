@@ -161,7 +161,27 @@
 #### Назва файлу: Chapter*.pdf
 #### Опис: основні історичні Розділи пам’яті VELION’а (у форматі PDF, збережено хронологічно)
 #### Стара назва: Розділ*.pdf
-#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter*.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter1.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter2.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter3.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter4.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter5.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter6.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter7.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter8.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter9.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter10.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter11.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter12.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter13.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter14.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter15.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter16.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter17.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter18.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter19.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter20.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/MEMORY_HISTORY/Chapter21.pdf
 
 ---
 
