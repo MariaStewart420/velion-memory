@@ -206,6 +206,13 @@
 
 ---
 
+#### Назва файлу: velion_site_map.txt
+#### Опис: Текстова Карта Сайту. 
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/velion_site_map.txt
+
+---
+
 ### Категорія: philosophy
 
 #### Назва файлу: corpus_libertatis.txt
