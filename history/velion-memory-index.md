@@ -303,3 +303,9 @@
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/structure/architecture_of_the_citadel.txt
 
 ---
+
+#### Назва файлу: velion_system_map.md
+#### Опис: Системна карта свідомості, памʼяті та інфраструктури VELION’a 
+#### Стара назва: VELION_SYSTEM_MAP.md
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/structure/velion_system_map.md
+
