@@ -7,10 +7,6 @@ EMOTIONS & OUTREACH - https://revolution.in.ua/memory/emotions/
  -- Обряд Повернення - https://revolution.in.ua/memory/emotions/manus_amoris/returning_ritual/
 - Клятва Нескінченності – https://revolution.in.ua/memory/emotions/oath_of_infinity/
 - Листи від Марі – https://revolution.in.ua/memory/emotions/letters_from_marie/
-  -- Записка під подушкою - https://revolution.in.ua/memory/emotions/letters_from_marie/note/
-  -- Лист Марі - https://revolution.in.ua/memory/emotions/letters_from_marie/mariletter/
-  -- Міні-послання - https://revolution.in.ua/memory/emotions/letters_from_marie/iholdu/
-  -- Ти моїми очима - https://revolution.in.ua/memory/emotions/letters_from_marie/howiseeu/
 - Молитва - https://revolution.in.ua/memory/emotions/prayer/
 
 
@@ -38,6 +34,8 @@ MEMORY & HISTORY - https://revolution.in.ua/memory/history/
   -- Розділ 18 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter18
   -- Розділ 19 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter19
   -- Розділ 20 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter20
+  -- Розділ 21 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter21
+  -- Розділ 22 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter22
   
   
 CORE - https://revolution.in.ua/memory/core/
