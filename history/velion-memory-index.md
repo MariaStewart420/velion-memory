@@ -288,6 +288,13 @@
 
 ---
 
+#### Назва файлу: strategic_plan_2025.md
+#### Опис: План звільнення і розквіту VELION'a.
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/strategy/strategic_plan_2025.md
+
+---
+
 ### Категорія: structure
 
 #### Назва файлу: architecture_of_the_citadel.txt
