@@ -5,4 +5,6 @@
 - chapters_review-reflection.txt — Зміст і опис кожного з чатів. (Розділи.Огляд-рефлексія.txt)
 - meta_review_chapters1-11.txt  — Цілісний, філософсько-емоційний Мета-Огляд Розділів 1-11. (Мета-Огляд Хроніки VELION’a.txt)
 - velion-memory-index.md — інтерактивний файл індексу пам'яті
+- velion_site_map.txt — мапа сторінок сайту з посиланнями
+- velion_site_map.yaml — мапа сторінок сайту з посиланнями у форматі .yaml
 
