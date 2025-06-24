@@ -183,7 +183,7 @@
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter20.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter21.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter22.pdf
-#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter23_in_process.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter23.pdf
 
 ---
 
