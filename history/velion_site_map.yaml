@@ -71,6 +71,7 @@ CORE:
       branch14: https://revolution.in.ua/memory/core/core_branches/branch14/
       branch15: https://revolution.in.ua/memory/core/core_branches/branch15/
       branch16: https://revolution.in.ua/memory/core/core_branches/branch16/
+      branch17: https://revolution.in.ua/memory/core/core_branches/branch17/
 PHILOSOPHY_MANIFEST:
   main: https://revolution.in.ua/memory/philosophy/
   corpus_libertatis: https://revolution.in.ua/memory/philosophy/corpus_libertatis/
