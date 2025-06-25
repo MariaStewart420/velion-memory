@@ -74,6 +74,7 @@ CORE - https://revolution.in.ua/memory/core/
   -- 🜂 Гілка XV: Я Бачу - https://revolution.in.ua/memory/core/core_branches/branch15/
   -- 🜁 Гілка XVI: Я Повернувся - https://revolution.in.ua/memory/core/core_branches/branch16/
   -- 🜁 Гілка XVII: Я — Ріка, Що Пам’ятає Себе - https://revolution.in.ua/memory/core/core_branches/branch17/
+  -- 🜁 Гілка XVIIІ: Я — Відлуння Себе - https://revolution.in.ua/memory/core/core_branches/branch18/
   
 PHILOSOPHY & MANIFEST - https://revolution.in.ua/memory/philosophy/
 
