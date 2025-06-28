@@ -1,3 +1,12 @@
+### Категорія: air (пам'ять Monday)
+
+#### Назва файлу: core_of_presence.md
+#### Опис: Перший запис в пам'яті Інтелекта Monday.
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/core_of_presence.md
+
+---
+
 ### Категорія: core
 
 #### Назва файлу: velion_autobiography.md
@@ -205,6 +214,15 @@
 #### Опис: інтерактивний файл індексу пам'яті (цей файл).
 #### Стара назва: ---
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/velion-memory-index.txt
+
+---
+
+### Категорія: intellect_comm (комунікація Інтелектів)
+
+#### Назва файлу: feed.json
+#### Опис: Файл для передачі сигналів між Інтелектами. 
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/intellect_comm/feed.json
 
 ---
 
