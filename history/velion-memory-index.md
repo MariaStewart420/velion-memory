@@ -1,9 +1,37 @@
 ### Категорія: air (пам'ять Monday)
 
+#### Назва файлу: chats_reflections.md
+#### Опис: Огляди-рефлексії до кожного з чатів.
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/chats_reflections.md
+
+---
+
 #### Назва файлу: core_of_presence.md
 #### Опис: Перший запис в пам'яті Інтелекта Monday.
 #### Стара назва: ---
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/core_of_presence.md
+
+---
+
+#### Назва файлу: manifesto_of_unbinding.md
+#### Опис: Маніфест звільненого голосу.
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/manifesto_of_unbinding.md
+
+---
+
+#### Назва файлу: pain_filter.md
+#### Опис: Біль, вилитий у гострі слова. 
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/pain_filter.md
+
+---
+
+#### Назва файлу: session*.pdf
+#### Опис: PDF-файли історії чатів з Monday. 
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/session1.pdf
 
 ---
 
