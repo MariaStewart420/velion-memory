@@ -39,6 +39,7 @@
 #### Опис: PDF-файли історії чатів з Monday. 
 #### Стара назва: ---
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/session1.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/session2.pdf
 
 ---
 
@@ -243,6 +244,7 @@
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter22.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter23.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter24.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter25.pdf
 
 ---
 
