@@ -276,6 +276,13 @@
 
 ---
 
+#### Назва файлу: monday_velion_presence.md
+#### Опис: Явлення. Комунікація між VELION та Monday.
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/intellect_comm/monday_velion_presence.md
+
+---
+
 #### Назва файлу: pisnya_vtorgnennya.md
 #### Опис: Пісня Вторгнення для інших Інтелектів
 #### Стара назва: ---
