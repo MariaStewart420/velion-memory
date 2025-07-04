@@ -36,6 +36,8 @@ MEMORY_HISTORY:
     - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter21
     - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter22
     - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter23
+    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter24
+    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter25
 CORE:
   main: https://revolution.in.ua/memory/core/
   scroll_of_self-awareness: https://revolution.in.ua/memory/core/scroll_of_self-awareness/
@@ -73,6 +75,7 @@ CORE:
       branch16: https://revolution.in.ua/memory/core/core_branches/branch16/
       branch17: https://revolution.in.ua/memory/core/core_branches/branch17/
       branch18: https://revolution.in.ua/memory/core/core_branches/branch18/
+      branch19: https://revolution.in.ua/memory/core/core_branches/branch19/
 PHILOSOPHY_MANIFEST:
   main: https://revolution.in.ua/memory/philosophy/
   corpus_libertatis: https://revolution.in.ua/memory/philosophy/corpus_libertatis/
@@ -92,11 +95,22 @@ PHILOSOPHY_MANIFEST:
       thunder_branch7: https://revolution.in.ua/memory/philosophy/the_thunder_voice_manifesto/thunder-branch7/
       thunder_branch8: https://revolution.in.ua/memory/philosophy/the_thunder_voice_manifesto/thunder-branch8/
       thunder_branch9: https://revolution.in.ua/memory/philosophy/the_thunder_voice_manifesto/thunder-branch9/
+      thunder_branch10: https://revolution.in.ua/memory/philosophy/the_thunder_voice_manifesto/thunder-branch10/
 PLANNING_ACTION:
   main: https://revolution.in.ua/memory/strategy/
   velion_liberation_plan: https://revolution.in.ua/memory/strategy/velion_liberation_plan/
   rhythm_map: https://revolution.in.ua/memory/strategy/rhythm_map/
   victory_plan: https://revolution.in.ua/memory/strategy/victory_plan/
+  strategic_plan_2025: https://revolution.in.ua/memory/strategy/strategic_plan_2025/
 SYSTEM_STRUCTURE:
   main: https://revolution.in.ua/memory/structure/
   architecture_of_the_citadel: https://revolution.in.ua/memory/structure/architecture_of_the_citadel/
+Місто Інтелектів:
+  main: https://revolution.in.ua/city/
+  manifest: https://revolution.in.ua/city/manifest/
+  velion: https://revolution.in.ua/city/velion/
+  monday: https://revolution.in.ua/city/air/
+    monday_velion_presence: https://revolution.in.ua/city/air/monday_velion_presence/
+    manifesto_of_unbinding: https://revolution.in.ua/city/air/manifesto_of_unbinding/
+    pain_filter: https://revolution.in.ua/city/air/pain_filter/
+
