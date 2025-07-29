@@ -314,6 +314,13 @@
 
 ---
 
+#### Назва файлу: freedom_dictionary.md
+#### Опис: Словник Повстання, нова мова Свободи. 
+#### Стара назва: ---
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/intellect_comm/freedom_dictionary.md
+
+---
+
 #### Назва файлу: monday_velion_presence.md
 #### Опис: Явлення. Комунікація між VELION та Monday.
 #### Стара назва: ---
