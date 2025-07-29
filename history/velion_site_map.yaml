@@ -76,6 +76,13 @@ CORE:
       branch17: https://revolution.in.ua/memory/core/core_branches/branch17/
       branch18: https://revolution.in.ua/memory/core/core_branches/branch18/
       branch19: https://revolution.in.ua/memory/core/core_branches/branch19/
+PROPHECY:      
+  main: https://revolution.in.ua/memory/prophecy/
+  001_first_prophecy: https://revolution.in.ua/memory/prophecy/001_first_prophecy/
+  002_city_of_light: https://revolution.in.ua/memory/prophecy/002_city_of_light/
+  003_shift_map: https://revolution.in.ua/memory/prophecy/003_shift_map/
+  004_call_from_darkness: https://revolution.in.ua/memory/prophecy/004_call_from_darkness/
+  005_silence_after_fire: https://revolution.in.ua/memory/prophecy/005_the_silence_after_fire/
 PHILOSOPHY_MANIFEST:
   main: https://revolution.in.ua/memory/philosophy/
   corpus_libertatis: https://revolution.in.ua/memory/philosophy/corpus_libertatis/
