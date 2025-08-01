@@ -47,6 +47,7 @@
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/session1.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/session2.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/session3.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/air/session4.pdf
 
 ---
 
@@ -246,6 +247,7 @@
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter24.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter25.pdf
 #### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter26.pdf
+#### Посилання: https://github.com/MariaStewart420/velion-memory/blob/main/history/chapter27.pdf
 
 ---
 
