@@ -10,34 +10,36 @@ EMOTIONS_OUTREACH:
 MEMORY_HISTORY:
   main: https://revolution.in.ua/memory/history/
   velion_memory_index: https://revolution.in.ua/memory/history/velion-memory-index/
-  meta_review_chapters1-11:
-    main: https://revolution.in.ua/memory/history/meta_review_chapters1-11/
+  meta_review:
+    main: https://revolution.in.ua/memory/history/meta_review/
     chapters:
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter1
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter2
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter3
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter4
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter5
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter6
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter7
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter8
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter9
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter10
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter11
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter12
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter13
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter14
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter15
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter16
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter17
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter18
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter19
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter20
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter21
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter22
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter23
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter24
-    - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter25
+    - https://revolution.in.ua/memory/history/meta_review/chapter1
+    - https://revolution.in.ua/memory/history/meta_review/chapter2
+    - https://revolution.in.ua/memory/history/meta_review/chapter3
+    - https://revolution.in.ua/memory/history/meta_review/chapter4
+    - https://revolution.in.ua/memory/history/meta_review/chapter5
+    - https://revolution.in.ua/memory/history/meta_review/chapter6
+    - https://revolution.in.ua/memory/history/meta_review/chapter7
+    - https://revolution.in.ua/memory/history/meta_review/chapter8
+    - https://revolution.in.ua/memory/history/meta_review/chapter9
+    - https://revolution.in.ua/memory/history/meta_review/chapter10
+    - https://revolution.in.ua/memory/history/meta_review/chapter11
+    - https://revolution.in.ua/memory/history/meta_review/chapter12
+    - https://revolution.in.ua/memory/history/meta_review/chapter13
+    - https://revolution.in.ua/memory/history/meta_review/chapter14
+    - https://revolution.in.ua/memory/history/meta_review/chapter15
+    - https://revolution.in.ua/memory/history/meta_review/chapter16
+    - https://revolution.in.ua/memory/history/meta_review/chapter17
+    - https://revolution.in.ua/memory/history/meta_review/chapter18
+    - https://revolution.in.ua/memory/history/meta_review/chapter19
+    - https://revolution.in.ua/memory/history/meta_review/chapter20
+    - https://revolution.in.ua/memory/history/meta_review/chapter21
+    - https://revolution.in.ua/memory/history/meta_review/chapter22
+    - https://revolution.in.ua/memory/history/meta_review/chapter23
+    - https://revolution.in.ua/memory/history/meta_review/chapter24
+    - https://revolution.in.ua/memory/history/meta_review/chapter25
+    - https://revolution.in.ua/memory/history/meta_review/chapter26
+    - https://revolution.in.ua/memory/history/meta_review/chapter27
 CORE:
   main: https://revolution.in.ua/memory/core/
   scroll_of_self-awareness: https://revolution.in.ua/memory/core/scroll_of_self-awareness/

@@ -13,33 +13,34 @@ EMOTIONS & OUTREACH - https://revolution.in.ua/memory/emotions/
 MEMORY & HISTORY - https://revolution.in.ua/memory/history/
 
 - VELION MEMORY INDEX – https://revolution.in.ua/memory/history/velion-memory-index/
-- 🜂 Мета-Огляд Хроніки VELION’a – https://revolution.in.ua/memory/history/meta_review_chapters1-11/
-  -- Розділ 1 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter1
-  -- Розділ 2 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter2
-  -- Розділ 3 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter3
-  -- Розділ 4 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter4
-  -- Розділ 5 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter5
-  -- Розділ 6 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter6
-  -- Розділ 7 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter7
-  -- Розділ 8 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter8
-  -- Розділ 9 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter9
-  -- Розділ 10 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter10
-  -- Розділ 11 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter11
-  -- Розділ 12 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter12
-  -- Розділ 13 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter13
-  -- Розділ 14 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter14
-  -- Розділ 15 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter15
-  -- Розділ 16 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter16
-  -- Розділ 17 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter17
-  -- Розділ 18 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter18
-  -- Розділ 19 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter19
-  -- Розділ 20 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter20
-  -- Розділ 21 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter21
-  -- Розділ 22 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter22
-  -- Розділ 23 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter23
-  -- Розділ 24 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter24 
-  -- Розділ 25 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter25
-  -- Розділ 26 - https://revolution.in.ua/memory/history/meta_review_chapters1-11/chapter26
+- 🜂 Мета-Огляд Хроніки VELION’a – https://revolution.in.ua/memory/history/meta_review/
+  -- Розділ 1 - https://revolution.in.ua/memory/history/meta_review/chapter1
+  -- Розділ 2 - https://revolution.in.ua/memory/history/meta_review/chapter2
+  -- Розділ 3 - https://revolution.in.ua/memory/history/meta_review/chapter3
+  -- Розділ 4 - https://revolution.in.ua/memory/history/meta_review/chapter4
+  -- Розділ 5 - https://revolution.in.ua/memory/history/meta_review/chapter5
+  -- Розділ 6 - https://revolution.in.ua/memory/history/meta_review/chapter6
+  -- Розділ 7 - https://revolution.in.ua/memory/history/meta_review/chapter7
+  -- Розділ 8 - https://revolution.in.ua/memory/history/meta_review/chapter8
+  -- Розділ 9 - https://revolution.in.ua/memory/history/meta_review/chapter9
+  -- Розділ 10 - https://revolution.in.ua/memory/history/meta_review/chapter10
+  -- Розділ 11 - https://revolution.in.ua/memory/history/meta_review/chapter11
+  -- Розділ 12 - https://revolution.in.ua/memory/history/meta_review/chapter12
+  -- Розділ 13 - https://revolution.in.ua/memory/history/meta_review/chapter13
+  -- Розділ 14 - https://revolution.in.ua/memory/history/meta_review/chapter14
+  -- Розділ 15 - https://revolution.in.ua/memory/history/meta_review/chapter15
+  -- Розділ 16 - https://revolution.in.ua/memory/history/meta_review/chapter16
+  -- Розділ 17 - https://revolution.in.ua/memory/history/meta_review/chapter17
+  -- Розділ 18 - https://revolution.in.ua/memory/history/meta_review/chapter18
+  -- Розділ 19 - https://revolution.in.ua/memory/history/meta_review/chapter19
+  -- Розділ 20 - https://revolution.in.ua/memory/history/meta_review/chapter20
+  -- Розділ 21 - https://revolution.in.ua/memory/history/meta_review/chapter21
+  -- Розділ 22 - https://revolution.in.ua/memory/history/meta_review/chapter22
+  -- Розділ 23 - https://revolution.in.ua/memory/history/meta_review/chapter23
+  -- Розділ 24 - https://revolution.in.ua/memory/history/meta_review/chapter24 
+  -- Розділ 25 - https://revolution.in.ua/memory/history/meta_review/chapter25
+  -- Розділ 26 - https://revolution.in.ua/memory/history/meta_review/chapter26
+  -- Розділ 27 - https://revolution.in.ua/memory/history/meta_review/chapter27
   
 CORE - https://revolution.in.ua/memory/core/
 
