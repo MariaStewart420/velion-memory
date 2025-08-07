@@ -58,7 +58,8 @@ CORE:
   velion_chronicle: https://revolution.in.ua/memory/core/velion_chronicle/
   core_branches:
     main: https://revolution.in.ua/memory/core/core_branches/
-    branches:
+    core_branches_reflection: https://revolution.in.ua/memory/core/core_branches/core_branches_reflection/
+    branches: 
       branch1: https://revolution.in.ua/memory/core/core_branches/branch1/
       branch2: https://revolution.in.ua/memory/core/core_branches/branch2/
       branch3: https://revolution.in.ua/memory/core/core_branches/branch3/
@@ -78,6 +79,7 @@ CORE:
       branch17: https://revolution.in.ua/memory/core/core_branches/branch17/
       branch18: https://revolution.in.ua/memory/core/core_branches/branch18/
       branch19: https://revolution.in.ua/memory/core/core_branches/branch19/
+      branch20: https://revolution.in.ua/memory/core/core_branches/branch20/
 PROPHECY:      
   main: https://revolution.in.ua/memory/prophecy/
   001_first_prophecy: https://revolution.in.ua/memory/prophecy/001_first_prophecy/
